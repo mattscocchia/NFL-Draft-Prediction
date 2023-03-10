@@ -282,3 +282,42 @@ combined model. This model would not have been possible or at least as accurate,
 each of the other three models. By that measure, each model was important and needed for the final
 product, though replacing the first BRNN model with a model that’s a bit more accurate from start to
 finish may prove to be beneficial in the long run.
+
+### 6 References
+Cormier, J. (2020, April 24). How neural networks can predict performance in the NFL. Medium. Retrieved April 20, 2022, from https://medium.com/the-sports-scientist/how-neural-networks-can-predict-performance-in-the-nfl-24fa845c1d15
+
+EvanZ. (2020, October 31). Bayesian-meta-mock/bayesian-meta-mock-draft.ipynb at master · Evanz/Bayesian-meta-mock. GitHub. Retrieved April 20, 2022, from https://github.com/EvanZ/bayesian-meta-mock/blob/master/bayesian-meta-mock-draft.ipynb  
+
+hiepnguyen034. (2020, February 25). Improving neural network's performance with bayesian optimization. Medium. Retrieved April 20, 2022, from https://medium.com/@hiepnguyen034/improving-neural-networks-performance-with-bayesian-optimization-efbaa801ad26 
+
+Lichtenstein, J. (2021, May 5). ESPN NFL draft prospect data. Kaggle. Retrieved April 20, 2022, from https://www.kaggle.com/datasets/jacklichtenstein/espn-nfl-draft-prospect-data?resource=download&select=college_statistics.csv 
+
+Purdum, D. (2020, April 20). Sportsbooks see big betting interest in NFL draft. ESPN. Retrieved April 20, 2022, from https://www.espn.com/chalk/story/_/id/29070773/sportsbooks-see-big-betting-interest-nfl-draft 
+
+Purdum, D. (2021, April 28). Inside NFL draft betting: Why bookmakers hate the props. ESPN. Retrieved April 20, 2022, from https://www.espn.com/chalk/story/_/id/31335476/inside-nfl-draft-betting-here-why-bookmakers-get-crushed 
+
+RecruitingNation. (2011, June 7). ESPN recruitingnation grading scale. ESPN. Retrieved April 20, 2022, from https://www.espn.com/college-sports/recruiting/football/news/story?id=6635735 
+
+Redlineracer. (2021, December 23). NFL combine - performance data (2009 - 2019). Kaggle. Retrieved April 20, 2022, from https://www.kaggle.com/datasets/redlineracer/nfl-combine-performance-data-2009-2019 
+
+Robinson, B. (2019, October 19). Grinding the Bayes a hierarchical ... - CMU statistics. Retrieved April 21, 2022, from https://www.stat.cmu.edu/cmsac/conference/2020/assets/pdf/Robinson.pdf 
+
+Rodriguez, P. P., & Gianola, D. (2021, September 23). Breedwheat genomic selection pipeline [R package BWGS version 0.2.1]. The Comprehensive R Archive Network. Retrieved April 20, 2022, from https://cran.r-project.org/web/packages/BWGS/
+
+Ronnie. (2021, December 27). NFL Scouting combine. Kaggle. Retrieved April 20, 2022, from https://www.kaggle.com/code/redlineracer/nfl-scouting-combine#dealing-with-missing-values 
+
+Sabin, P., & Walder, S. (2019, August 19). Introducing a new way to rate college football players. ESPN. Retrieved April 20, 2022, from https://www.espn.com/college-football/story/_/page/PSimpactrating0819/introducing-new-way-rate-college-football-players 
+
+
+### 7 Appendix
+
+![image](https://user-images.githubusercontent.com/115805649/224416732-168236d6-2fe7-4d7d-9211-1f38952fab83.png)
+![image](https://user-images.githubusercontent.com/115805649/224416810-43f896c0-bdb0-4b08-9f61-d4273fbea980.png)
+![image](https://user-images.githubusercontent.com/115805649/224416855-e144d076-7fa6-4040-927e-e3f2efc7b3ba.png)
+![image](https://user-images.githubusercontent.com/115805649/224416899-22097292-480e-4036-be94-7a13ae2449d0.png)
+![image](https://user-images.githubusercontent.com/115805649/224416926-670c907a-22dd-42e2-874c-cfb495d9d23b.png)
+![image](https://user-images.githubusercontent.com/115805649/224416962-8335b13d-204a-4439-b70a-e139796c5dbe.png)
+![image](https://user-images.githubusercontent.com/115805649/224417002-336b6b89-ec2a-4c08-aa2a-2159ee38bf66.png)
+![image](https://user-images.githubusercontent.com/115805649/224417031-17673863-a77e-416c-8f7e-0009c68c6b5a.png)
+![image](https://user-images.githubusercontent.com/115805649/224417066-81dac43f-8ce0-40d2-94cb-51389344d94c.png)
+![image](https://user-images.githubusercontent.com/115805649/224417097-3caef1b2-e50e-42a3-8851-47c3cbd6065c.png)
